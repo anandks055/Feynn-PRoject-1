@@ -1,0 +1,5 @@
+# Feynn-PRoject-1
+Hey connections, I would like to share regarding the 1st Project Assignment experience at my on-going Virtual Internship at AIncubator - Feynn Labs and Feynn Labs. During this period, I have come up with "The Aid of ML for Private Travel Agents". As per the AI Service Ideation task, I had to come up with a business idea where Machine Learning and Data Science will be applied in small or medium businesses and help them with their sales, business operations, marketing etc. and prepare a report on the abstract prototype/business model. I hope to have achieved this in my project.
+I came up with this Idea having found out that though there are numerous Tour planning services out there, there hasn't previously been a constant effort to aid private Travel agents through a common software platform to help their profession, which is still sought out for, because of the tailor-made experience they manage to provide.
+I hope this project, when implemented, helps to create such a common platform to work on for all private Travel agents.
+Visit the following link to apply for Internship at Feynn Labs https://lnkd.in/gYKc__Mb
